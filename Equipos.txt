@@ -1,0 +1,1 @@
+681KWR1;Gemis Guevara;DC-PTX;PowerEdge T310;Intel(R) Xeon(R) CPU           X3440  @ 2.53GHz;24566.20703125 MB;2097021.99609375 MB;Windows Server 2012 R2 Standard;;;;
